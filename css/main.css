@@ -7,42 +7,30 @@
 body{
     font-family: 'Gloria Hallelujah', cursive;
 }
-
-.jumbotron {
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: #fff;
-    border-bottom: 3px solid #BCBBBB;
-}
-.logo{
-    height: 150px;
+#logo{
+  height: 150px;
     width: 200px;
     float: left;
 }
-.jumbotron p {
-  margin-bottom: 15px;
-  font-size: 21px;
-  font-weight: 200;
-  float: right;
+
+
+.subtext{
+float: right;
 }
-.sub-text{
-    float: right;
+.header{
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #fff;
+  border-bottom: 3px solid #BCBBBB;
 }
 .featured{
-     display: block;
-    max-width: 100%;
-    width: 75%;
-    margin:0 12.5% 0 12.5%;
-    height: auto;
-    padding-bottom: 7%;
+  margin: 0 auto;
+  padding-bottom: 3%}
+
+.button {
+margin-top:10px;
 
 }
-
-
-
-
-
-
 
 
 
