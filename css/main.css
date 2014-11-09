@@ -18,19 +18,27 @@ body{
 float: right;
 }
 .header{
-  margin-bottom: 30px;
   color: inherit;
   background-color: #fff;
   border-bottom: 3px solid #BCBBBB;
+  max-width: 100%;
+  clear: both;
+  display: block;
+
 }
 .featured{
+  padding-top: 7%;
   margin: 0 auto;
-  padding-bottom: 3%}
+  padding-bottom: 3%;
+  display: block;
+  max-width: 100%;
+  height: auto;}
 
 .button {
 margin-top:10px;
 
 }
-
-
+footer p {
+padding-top: 10%;
+}
 
